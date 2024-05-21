@@ -1,4 +1,12 @@
 # Arquitecturas de Software
+La arquitectura de software se refiere a la estructura fundamental de un sistema de software y a las decisiones de diseño de alto nivel que guían su organización. Algunos aspectos clave de la arquitectura de software incluyen:
+
+La arquitectura de software define la estructura y el comportamiento de un sistema. Algunas arquitecturas comunes son:
+
+1. **Componentes**: Los sistemas de software están compuestos por varios componentes que interactúan entre sí para lograr los objetivos del sistema.
+2. **Conexiones**: Las conexiones entre los componentes definen cómo se comunican y colaboran para realizar tareas.
+3. **Patrones arquitectónicos**: Estos son enfoques comunes y probados para diseñar sistemas de software, como la arquitectura en capas, la arquitectura orientada a microservicios y la arquitectura basada en eventos.
+
 La arquitectura de software define la estructura y el comportamiento de un sistema. Algunas arquitecturas comunes son:
 
 1. **Monolítica**: Todos los componentes y servicios están integrados en un solo programa o plataforma.
